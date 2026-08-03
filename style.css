@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "KiwiSoda";
+    src: url("./fonts/KiwiSoda.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Daydream";
+    src: url("./fonts/Daydream DEMO.otf") format("truetype");
+}
+#gameDescription {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Daydream", sans-serif;
+}
